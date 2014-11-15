@@ -1,4 +1,4 @@
-When requiring `luapath`, `$HOME/luapath` is be added to lua path.
+When requiring `luapath`, `$HOME/luapath` is added to lua path.
 Lua is then able to find `$HOME/luapath/*.lua` modules and
 `$HOME/luapath/*/init.lua` packages.
 
